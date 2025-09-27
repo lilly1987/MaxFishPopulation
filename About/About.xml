@@ -22,6 +22,9 @@
     <!-- <li>Mlie.CaptureThem</li> -->
     <li>brrainz.harmony</li>
   </loadAfter>
-  <description></description>
+  <description>낚시 인구수를 고정값으로 설정  
+모든 종류의 물고기가 낚임  
+낚시구역 설정시 계속  모드로 설정  
+</description>
   <modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
 </ModMetaData>
