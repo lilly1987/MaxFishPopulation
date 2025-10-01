@@ -64,7 +64,7 @@ namespace Lilly.MaxFishPopulation
 
             foreach (var biome in DefDatabase<BiomeDef>.AllDefs)
             {
-                MyLog.Message($"{biome.defName} {biome.maxFishPopulation}");
+                //MyLog.Message($"{biome.defName} {biome.maxFishPopulation}");
                 // 조건 없이 전체 Biome 수정
                 biome.maxFishPopulation = Settings.maxFishPopulation; // 원하는 값으로 설정                
 
